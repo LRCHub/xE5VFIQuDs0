@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Swish",
+  "base_artist": "Ha0",
+  "createdAt": "2026-03-31T21:07:58.130853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Swish Swish (Blonde Remix)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/01_Swish_Swish_(Blonde_Remix)_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/02_Swish_Swish_Katy_Perry_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brush Em (feat. Rah Swish)",
+      "artist": "Pop Smoke feat. Rah Swish",
+      "has_synced": true,
+      "path": "select/03_Brush_Em_(feat._Rah_Swish)_Pop_Smoke_feat._Rah_Swish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Know Em (feat. Rah Swish)",
+      "artist": "Pop Smoke feat. Rah Swish",
+      "has_synced": false,
+      "path": "select/04_Don't_Know_Em_(feat._Rah_Swish)_Pop_Smoke_feat._Rah_Swish.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SWISH",
+      "artist": "Tyga",
+      "has_synced": true,
+      "path": "select/05_SWISH_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Swish",
+      "artist": "Mike Stud",
+      "has_synced": true,
+      "path": "select/06_Swish_Mike_Stud.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry/Nicki Minaj",
+      "has_synced": true,
+      "path": "select/07_Swish_Swish_Katy_Perry_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swish Swish (feat. Nicki Minaj)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/08_Swish_Swish_(feat._Nicki_Minaj)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry/Nicki Minaj",
+      "has_synced": true,
+      "path": "select/09_Swish_Swish_Katy_Perry_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/10_Swish_Swish_Katy_Perry,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swish Swish (feat. Nicki Minaj)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/11_Swish_Swish_(feat._Nicki_Minaj)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry Ft. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/12_Swish_Swish_Katy_Perry_Ft._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Swish Swish (Clean)",
+      "artist": "Katy Perry, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/13_Swish_Swish_(Clean)_Katy_Perry,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Swish Swish (radio edit)",
+      "artist": "Katy Perry feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/14_Swish_Swish_(radio_edit)_Katy_Perry_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Swish Swish",
+      "artist": "Katy Perry\\Nicki Minaj",
+      "has_synced": true,
+      "path": "select/15_Swish_Swish_Katy_Perry_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seeing Red (with Dusty Locane & Rah Swish)",
+      "artist": "7evin7ins, DUSTY LOCANE, Rah Swish",
+      "has_synced": false,
+      "path": "select/16_Seeing_Red_(with_Dusty_Locane_&_Rah_Swish)_7evin7ins,_DUSTY_LOCANE,_Rah_Swish.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SWISH",
+      "artist": "blackwave.",
+      "has_synced": true,
+      "path": "select/17_SWISH_blackwave..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Brush Em (feat. Rah Swish)",
+      "artist": "Pop Smoke, Rah Swish",
+      "has_synced": true,
+      "path": "select/18_Brush_Em_(feat._Rah_Swish)_Pop_Smoke,_Rah_Swish.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Swish",
+      "artist": "Summer Cem",
+      "has_synced": true,
+      "path": "select/19_Swish_Summer_Cem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Swish",
+      "artist": "Ha0",
+      "has_synced": false,
+      "path": "select/pl_01_Swish_Ha0.txt"
+    }
+  ]
+}
